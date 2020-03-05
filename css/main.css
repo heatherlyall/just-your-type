@@ -25,7 +25,10 @@ body {
   position: relative
   width: 100%;
   display: block;
+  border-style: solid;
+  border-width: 25%;
   border-color: #fff;
+
 }
 
 .heart {
