@@ -24,3 +24,7 @@ body {
 .bigtxt {
   position: relative;
 }
+
+.heart {
+  fill: #fff;
+}
