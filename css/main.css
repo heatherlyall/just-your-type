@@ -22,9 +22,58 @@ body {
 }
 
 .bigtxt {
-  position: relative;
+  position: relative
+  width: 100%;
+  display: block;
+  border-color: #fff;
 }
 
 .heart {
   fill: #fff;
+  left: 45%;
+}
+
+.every {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.25em;
+  position: absolute;
+  left: 35%;
+  top: 14%;
+  z-index: 1000;
+}
+
+.masterpiece {
+  font-family: 'Satisfy', cursive;
+  color: #fff;
+  font-size: 3em;
+  position: absolute;
+  right: 37%;
+  bottom: -90;
+}
+
+.write-again {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.25em;
+  position: absolute;
+  left: 45%;
+  top: 22%;
+  z-index: 1000;
+}
+
+.always-be {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.25em;
+  position: absolute;
+  left: 32%;
+  bottom: 66%;
+  z-index: 1000;
+}
+
+.porcelain {
+  font-family: 'Satisfy', cursive;
+  color: #fff;
+  font-size: 3em;
+  position: absolute;
+  right: 32%;
+  bottom: 59%;
 }
